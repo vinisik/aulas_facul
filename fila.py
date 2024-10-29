@@ -42,3 +42,4 @@ class FilaCircular:
         if self.__fila_vazia():
             return -1
         return self.valores[self.inicio]
+
